@@ -80,7 +80,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           color: Color(0xffe76f51),
                           alignment: Alignment.center,
                           child: Text(
-                            'POLAR BEAR',
+                            'Polar Bear',
                             style: TextStyle(
                                 color: Color(0xfff4f1de),
                                 fontSize: 15,
@@ -125,7 +125,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           color: Color(0xffe76f51),
                           alignment: Alignment.center,
                           child: Text(
-                            'POLAR BEAR',
+                            'Asiatic Black Bear',
                             style: TextStyle(
                                 fontFamily: 'Lemon',
                                 color: Color(0xfff4f1de),
@@ -170,7 +170,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           color: Color(0xffe76f51),
                           alignment: Alignment.center,
                           child: Text(
-                            'POLAR BEAR',
+                            'Sun Bear',
                             style: TextStyle(
                                 fontFamily: 'Lemon',
                                 color: Color(0xfff4f1de),
@@ -215,7 +215,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           color: Color(0xffe76f51),
                           alignment: Alignment.center,
                           child: Text(
-                            'POLAR BEAR',
+                            'Brown Bear',
                             style: TextStyle(
                                 fontFamily: 'Lemon',
                                 color: Color(0xfff4f1de),
